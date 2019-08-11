@@ -58,7 +58,7 @@ div {
 #buttons {
     float:right;
     margin-right: 90px;
-    font: 10px;
+    font: 20px;
     color:#4aaaa5;
     font: bold;
     font-family: 'EB Garamond', serif;
@@ -92,9 +92,9 @@ h1 {
 
 }
 form{
-    font: bolder;
+    font: 15px bolder;
     color: black;
-    text-shadow: #4aaaa5 0.75px 0.75px 0.75px;
+    text-shadow: white 0.75px 0.75px 0.75px;
     font-family: 'Montserrat', sans-serif;
  
 }
@@ -156,6 +156,8 @@ footer{
     color: black;
     text-shadow: lightgray 0.5px 0.5px;
     font-family: 'EB Garamond', serif;
+    outline: none;
+    border: none;
 }
 .email {
     width: 70%;
@@ -166,6 +168,8 @@ footer{
     color: black;
     text-shadow: lightgray 0.5px 0.5px;
     font-family: 'EB Garamond', serif;
+    outline: none;
+    border: none;
 }
 .comment {
     width: 70%;
@@ -176,6 +180,8 @@ footer{
     color: black;
     text-shadow: lightgray 0.5px 0.5px;
     font-family: 'EB Garamond', serif;
+    outline: none;
+    border: none;
 }
 
 #submit{
@@ -278,4 +284,4 @@ main {
       
    
   }
-}
+
